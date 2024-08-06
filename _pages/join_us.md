@@ -1,7 +1,7 @@
 ---
-title: "Bioinfo Lab - Join us"
+title: "MoRPH - Join us"
 layout: gridlay
-excerpt: "Bioinfo Lab: Join us"
+excerpt: "MoRPH: Join us"
 sitemap: false
 permalink: /join_us/
 ---
