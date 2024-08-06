@@ -1,6 +1,6 @@
-# Website of Bioinformatics Lab, DLSU Manila
+# Website of Mathematics of Reaction Networks Philippines
 
-This is the website of the Bioinformatics Laboratory at DLSU.
+This is the website of the Mathematics of Reaction Networks Philippines.
 
 This website is powered by Jekyll and some Bootstrap, Bootwatch.
 We adapted it from the website of [Allan Lab](https://www.allanlab.org/).
