@@ -1,7 +1,7 @@
 ---
-title: "Bioinfo Lab - People"
+title: "MoRPH - People"
 layout: gridlay
-excerpt: "Bioinfo Lab: People"
+excerpt: "MoRPH: People"
 sitemap: false
 permalink: /team/
 ---
