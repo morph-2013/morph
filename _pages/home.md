@@ -1,7 +1,7 @@
 ---
-title: "Bioinfo Lab - Home"
+title: "MoRPH - Home"
 layout: homelay
-excerpt: "Bioinfo Lab at DLSU Manila"
+excerpt: "Mathematics of Reaction Networks Philippines"
 sitemap: false
 permalink: /
 ---
