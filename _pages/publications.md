@@ -1,7 +1,7 @@
 ---
 title: "MoRPH - Publications"
 layout: gridlay
-excerpt: "M -- Publications."
+excerpt: "MoRPH -- Publications."
 sitemap: false
 permalink: /publications/
 ---
