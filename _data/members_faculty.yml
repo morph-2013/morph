@@ -1,6 +1,13 @@
+- name: <a href="https://scholar.google.com.ph/citations?user=pwzgQTwAAAAJ&hl=en">Eduardo Mendoza</a>
+  photo: angie.jpg
+  info: Honorary Scientist-in-Residence, Center for Natural Sciences and Environmental Research, De La Salle University
+  email: eduardo.mendoza@dlsu.edu.ph
+  number_educ: 0
+  education1:
+
 - name: <a href="https://scholar.google.com.ph/citations?user=pwzgQTwAAAAJ&hl=en">Angelyn Lao</a>
   photo: angie.jpg
-  info: Professor, Dept. of Mathematics and Statistics
-  email: a@b.c
+  info: Professor, Deptartment of Mathematics and Statistics, De La Salle University
+  email: angelyn.lao@dlsu.edu.ph
   number_educ: 0
   education1:
