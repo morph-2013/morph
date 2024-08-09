@@ -1,61 +1,14 @@
 - date: July 15, 2024
-  headline: Anish speaks at the 33rd Annual Meeting of the Philippine Academy of Microbiology.
-  pic: 20240715_PAM.png
+  headline: Participation in the Joint Meeting of KSMB and SMB 2024.
+  description: Angelyn Lao and Noel Fortun chaired the MoRPH mini-symposium.
+  pic: morph-ksmb-smb.jpg
 
 
-- date: July 10, 2024
-  headline: Two interns from the Philippine Science High School System completed their internship at the lab.
-  pic: 20240710_PSHSS.png
+#- date: April 3, 2024
+#  headline: Jenny has been awarded the [Faculty for the Future Fellowship](https://www.facultyforthefuture.net/){:target="\_blank"} program by the Schlumberger Foundation.
 
-- date: June 4, 2024
-  headline: Anish, Mark, and Phoebe's [work](https://doi.org/10.1093/gigascience/giae013){:target="\_blank"} with IRRI, RDA South Korea, and IRD France on creating a dashboard for rice post-GWAS/QTL analysis is published in GigaScience.
 
-- date: May 10, 2024
-  headline: Franz presents his work that benchmarks protein embeddings at the 24th Philippine Computing Science Congress.
-  pic: 20240510_Franz_talk.JPEG
+#- date: July 24, 2023
+#  headline: Our [work](https://doi.org/10.1371/journal.pone.0289030){:target="\_blank"}, led by Mark, on applying protein embeddings to phage-host interaction prediction is published in PLOS ONE.
 
-- date: May 8, 2024
-  headline: Dr. Xueyi Dong of WEHI talks about benchmarking long-read RNA-seq data analysis tools.
-  pic: 20240508_Xueyi_talk.jpg
 
-- date: April 6, 2024
-  headline: Mark's team Kuuhaku wins the intercollegiate programming contest [Algolympics 2024](https://algolympics.upacm.net/2024/){:target="\_blank"}, organized by the ACM &ndash; UP Diliman Student Chapter.
-  pic: 20240406-algolympics.jpg
-
-- date: April 3, 2024
-  headline: Jenny has been awarded the [Faculty for the Future Fellowship](https://www.facultyforthefuture.net/){:target="\_blank"} program by the Schlumberger Foundation.
-
-- date: March 24, 2024
-  headline: William Hutchison from Papenfuss Lab at Walter and Eliza Hall Institute of Medical Research (WEHI) talks about his research on prostate cancer to the group.
-  pic: 20240324-william-wehi.png
-
-- date: Feb 15, 2024
-  headline: Kim has been chosen to receive the Engineering Research and Development (ERDT) Scholarship for her graduate studies.
-
-- date: Jan 27, 2024
-  headline: Anish speaks at the [Philippine Society for Microbiology Cluster 1 Symposium](https://www.psm.org.ph/2023/2023-cluster-1-symposium/){:target="\_blank"} at Trinity University of Asia. Photos [here](https://www.facebook.com/watch/?v=1356863334813080){:target="\_blank"}.
-  pic: 20240127_PSM_Cluster1.jpg
-
-- date: Jan 26, 2024
-  headline: The group meets for some pizza. Yum!
-  pic: 20240126_pizza.jpeg
-
-- date: Dec 1, 2023
-  headline: Mark bags the 2nd prize in the [2023 Magsaysay Future Engineers/Technologists Award](https://www.dlsu.edu.ph/ccs-student-bagged-2nd-prize-in-2023-mfet-award/){:target="\_blank"} given by the National Academy of Science and Technology. Presentation [here](https://fb.watch/oKx7G6gwLi/){:target="\_blank"}.
-  pic: 20231201_Mark_MFET.jpeg
-
-- date: July 24, 2023
-  headline: Our [work](https://doi.org/10.1371/journal.pone.0289030){:target="\_blank"}, led by Mark, on applying protein embeddings to phage-host interaction prediction is published in PLOS ONE.
-
-- date: July 12, 2023
-  headline: Daphne, Mark, and Paul conduct a workshop on the basics of R, jointly organized with the Systems and Computational Biology Unit, DLSU.
-  pic: 20230712_R_workshop.png
-
-- date: June 19, 2023
-  headline: 4 students from the Philippine Science High School System join the lab for a 3-week immersion program.
-
-- date: Dec 13, 2022
-  headline: Kyle presents his [work](https://doi.org/10.1101/2022.12.15.520671){:target="\_blank"} on psuedo DNA-protein alignment at GIW/ISCB-Asia 2022 at Tainan, Taiwan.
-
-- date: Feb 4, 2022
-  headline: Anish, Joyce, and Kyle's [work](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-021-08278-7){:target="\_blank"} on assembly-free method for gene expression analysis in non-model organisms is published in BMC Genomics.
