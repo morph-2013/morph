@@ -19,8 +19,8 @@ See some of our [projects](projects), [publications](publications), and [softwar
     <ol class="carousel-indicators">
         <li data-target="#carousel" data-slide-to="0" class="active"></li>
         <li data-target="#carousel" data-slide-to="1"></li>
-        <li data-target="#carousel" data-slide-to="2"></li>
-        <li data-target="#carousel" data-slide-to="3"></li>
+        <!li data-target="#carousel" data-slide-to="2"></li>
+        <!li data-target="#carousel" data-slide-to="3"></li>
         <!-- <li data-target="#carousel" data-slide-to="4"></li>
         <li data-target="#carousel" data-slide-to="5"></li> -->
     </ol>
@@ -31,16 +31,10 @@ See some of our [projects](projects), [publications](publications), and [softwar
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/ricepilaf.png" alt="RicePilaf - Lift-Over" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/CRNT-ladies.png" alt="CRNT ladies - Lift-Over" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/phipred.png" alt="Phage-Host Interaction - Methodology" />
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/ricepilaf2.PNG" alt="RicePilaf - Module Graph" />
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/crabs_DEG.png" alt="Crabs - DEG" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/morph-ksmb-smb.jpg" alt="Morph at 2024 KSMB-SMB" />
         </div>
     </div>
 
