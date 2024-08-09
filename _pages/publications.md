@@ -62,7 +62,7 @@ permalink: /publications/
 <div class="col-auto flex pub-pic">
 
 </div>
-<div class="col-sm-10 flex pub-text">
+<div class="col-sm-20 flex pub-text">
 {% if publi.link.url %}<a href="{{ publi.link.url }}" target="_blank">{{ publi.title }}</a> {% else %}{{ publi.title }}{% endif %}
 <br /><em>{{ publi.authors }} </em><br />{{ publi.link.display }}
 {{publi.no-link}}
