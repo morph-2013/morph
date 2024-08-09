@@ -60,8 +60,7 @@ permalink: /publications/
 
 <div class="row flex">
 <div class="col-auto flex pub-pic">
-# hided the image assigned to the paper (below)
-# <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="pub-img" />
+
 </div>
 <div class="col-sm-10 flex pub-text">
 {% if publi.link.url %}<a href="{{ publi.link.url }}" target="_blank">{{ publi.title }}</a> {% else %}{{ publi.title }}{% endif %}
