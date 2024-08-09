@@ -59,7 +59,7 @@ permalink: /publications/
 {% for publi in group.items %}
 
 <div class="row flex">
-<div class="col-sm-0.5 flex pub-pic">
+<div class="col-sm-1 flex pub-pic">
 
 </div>
 <div class="col-sm-10 flex pub-text">
